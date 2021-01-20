@@ -14,6 +14,9 @@ body {
   color: var(--primary-text-color);
 
   font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.03em;
 }
 
 .link {
@@ -40,7 +43,6 @@ body {
 .nav-list-link {
   color: var(--primary-text-color);
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.066;
   letter-spacing: 0.02em;
 }
@@ -57,7 +59,6 @@ body {
 /* ----------HEADER-CONTACT----------- */
 .header-contact-list {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.02em;
 }
@@ -109,18 +110,13 @@ body {
 
 .features-list-title {
   font-weight: 700;
-  font-size: 14px;
   line-height: 1.142;
-  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .features-list-text {
   color: var(--secondary-text-color);
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 0.03em;
 }
 
 /* -------------ABOUT-US------------- */
@@ -130,7 +126,6 @@ body {
   font-size: 36px;
   line-height: 1.166;
   text-align: center;
-  letter-spacing: 0.03em;
 }
 
 /* -------------------OUR-TEAM------------ */
@@ -144,7 +139,6 @@ body {
   font-size: 16px;
   line-height: 1.187;
   text-align: center;
-  letter-spacing: 0.03em;
 }
 
 .team-list-position {
@@ -152,7 +146,6 @@ body {
   font-size: 16px;
   line-height: 1.187;
   text-align: center;
-  letter-spacing: 0.03em;
 }
 
 /* ---------FOOTER---------- */
@@ -167,19 +160,13 @@ body {
 .address-text {
   color: var(--primary-white-color);
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 0.03em;
 }
 
 .address-list-link {
   color: var(--footer-text-color);
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 0.03em;
 }
 
 .address-list-link:hover,
@@ -194,7 +181,6 @@ body {
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
-  letter-spacing: 0.03em;
 }
 
 .filter-btn:hover,
@@ -214,8 +200,6 @@ body {
 
 .examples-list-text {
   color: var(--secondary-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
-  letter-spacing: 0.03em;
 }
