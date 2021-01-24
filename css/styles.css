@@ -84,7 +84,7 @@ h6 {
 /* -----------HERO-------------- */
 
 .hero {
-  background-color: var(--btn-hover-bg-color);
+  background-color: var(--secondary-bg-color);
 }
 
 .hero-title {
@@ -111,7 +111,7 @@ h6 {
 
 .hero-modal-btn:hover,
 .hero-modal-btn:focus {
-  background-color: var(--btn-bg-color);
+  background-color: var(--btn-hover-bg-color);
   cursor: pointer;
 }
 
