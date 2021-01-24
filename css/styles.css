@@ -6,7 +6,7 @@
   --secondary-text-color: #757575;
   --footer-text-color: rgba(255, 255, 255, 0.6);
   --team-bg-color: #f5f4fa;
-  --btn-bg-color: #188ce8;
+  --btn-hover-bg-color: #188ce8;
 }
 
 body {
@@ -17,6 +17,15 @@ body {
   font-weight: 400;
   font-size: 14px;
   letter-spacing: 0.03em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
 }
 
 .link {
@@ -75,7 +84,7 @@ body {
 /* -----------HERO-------------- */
 
 .hero {
-  background-color: var(--secondary-bg-color);
+  background-color: var(--btn-hover-bg-color);
 }
 
 .hero-title {
